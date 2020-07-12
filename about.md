@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am student of [HSE](https://www.hse.ru/en/) with a lot of projects.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Check out my [CV](https://docs.google.com/document/d/1RjiWwbq-acWeUcXBfCoXmvV7OnjIx_WxhZRbQ7jyXj8/edit?usp=sharing) or ask me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[@aishutin](https://t.me/aishutin)
+[hazmozavr@gmail.com](mailto:email@domain.com)
