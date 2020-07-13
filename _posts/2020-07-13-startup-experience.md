@@ -1,0 +1,25 @@
+---
+published: false
+---
+The story about NLP startup Router.Im since its foundation. Router.im (ex Cerebra) is startup that aims to increase efficiency of customer support. We want to become new multichannel platform with a lot of DL features. 
+
+## Proofs
+- [Collaboration with MegaFon](https://sandbox.megafon.ru/phystechstart)
+- [Presentation at the accelerator](https://vk.com/video-161664433_456239059)
+
+## Unexpexted oppportunity
+In June 2019 I accidently got in touch with my acquaintance [Sereja Slotin](http://sereja.me/) who taugtht me DL. I told him about my plans to make ASR for client support. Sereja had come up with the similar idea - to optimize client support using NLP. He proposed to make startup together. I agreed.
+
+## The beginning
+Sereja gathered team and we started. I took NLP tasks. So, I was making embedlib - python library for text embedding using transformers. Sereja had had experience in the domain, so he explained me his general vision of embedlib. 
+
+## Piece by piece
+The concept of embedlib was evolving during the time as embedlib itself. Despite asking Sereja about several concepts, the coding and experimenting work is done almost just by me. At first it was simple training script for BERT. Then it was refactered using sacred into modular system with experiment memorization. I proudly added one feature after another - visualization systems, benchmarks, tests, multi GPU support and so on. 
+
+## The most unrealible thing
+But as the time growed, Sereja and me were left alone by the rest of the team. Thus, I took also backend part. I made a lot of integrations with social networks and email to make Router.Im multichannel platform. Also, I made several of our internal modules using FastAPI. 
+
+## The results
+In the end we have an agreement with Megafon. We should analyze all support requests and extend their FAQ to minimize the costs. However, due to COVID and crazy Russian laws about personal data the work has not started.
+
+We also have embedlib, of which I am proud. Maybe, we will open-source it later.
