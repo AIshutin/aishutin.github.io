@@ -7,7 +7,8 @@ published: true
 
 I am initiative self-starter with a good sense of humor, whose passion is AI. I am studing at [HSE](https://www.hse.ru/en/) and I am almost 18 years old.
 
-![me]({{site.baseurl}}/images/photo_2020-06-07_18-28-28.jpg)
+![me]({{site.baseurl}}/images/rsz_photo_2020-06-07_18-28-28.jpg)
+
 
 
 ### Achievements
