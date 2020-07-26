@@ -8,11 +8,17 @@ This is a brief story about my participation in Metachallenge. I developed the s
 
 - https://vk.com/@practicing_futures-pozhirateli-mobilnogo-trafika-ili-nyam-nyam-chto-eto
 
+![demo]({{site.baseurl}}/images/communicabio-demo.jpg)
+
+
+
 ### The idea
 
 After reading the news and the description of Metachallenge I shortly came up with the idea. It was a telegram bot that will negotiate with the users and force them to politely refuse his offers. Thus, the user would learn how to refuse bad offers. I built a working prototype in 2 days even before the official start. 
 
 After speaking to the mentor, the core idea was changed a bit. Instead of refusing offers, the users are able to negotiate politely with the bot. Also, Communicabio is not a telegram bot, but the site instead. Cause it's less concise to show tips about mistakes in telegram rather than in our own UI.
+
+![Architecture]({{site.baseurl}}/images/communicabio-architecture.jpg)
 
 ### The techs
 
