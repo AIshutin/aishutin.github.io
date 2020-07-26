@@ -2,9 +2,22 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-I am student of [HSE](https://www.hse.ru/en/) with a lot of projects.
+I am initiative self-starter with a good sense of humor, whose passion is AI. I am studing at [HSE](https://www.hse.ru/en/) and I am almost 18 years old.
+
+### Achievements
+
+- [collaboration with MegaFon](/startup/)
+- [the prize-winner of the National Olympiad in Informatics](/vseros/)
+- [the winner of Metachallenge Hackathon](/metachallenge/)
+
+
+### Main competencies
+
+- NLP (a domain of Data Science)
+- Backend
 
 ### More Information
 
