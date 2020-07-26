@@ -8,10 +8,6 @@ This is a brief story about my participation in Metachallenge. I developed the s
 
 - https://vk.com/@practicing_futures-pozhirateli-mobilnogo-trafika-ili-nyam-nyam-chto-eto
 
-![demo]({{site.baseurl}}/images/communicabio-demo.jpg)
-
-
-
 ### The idea
 
 After reading the news and the description of Metachallenge I shortly came up with the idea. It was a telegram bot that will negotiate with the users and force them to politely refuse his offers. Thus, the user would learn how to refuse bad offers. I built a working prototype in 2 days even before the official start. 
