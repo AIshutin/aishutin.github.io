@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
+title: The winner of the Metachallenge Hackathon
 ---
-## The winner of the hackathon
 This is a brief story about my participation in Metachallenge. I developed the solution called Communicabio to improve the soft skills of the users.
 
 ### Proofs
