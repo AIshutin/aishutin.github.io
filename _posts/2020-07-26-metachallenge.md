@@ -44,6 +44,6 @@ I see the mistakes in the following:
 
 ### The conclusion
 
-It was more than a month-long competition. But despite the fact that I win Metachallenge, I gained nearly nothing - only a T-shirt and bottle. The organizers promised an internship, but they did not fulfill their word.
+It was more than a month-long competition. But despite the fact that I won Metachallenge, I gained nearly nothing - only a T-shirt and bottle. The organizers promised an internship, but they did not fulfill their word.
 
 On the other hand, it was a useful experience for me. It gave me an idea of what I did wrong. It's said, "fail fast".
